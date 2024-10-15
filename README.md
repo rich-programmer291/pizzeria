@@ -21,11 +21,13 @@ BACKEND<br/>
 **Step 5:** - npm run dev <br/>
 <br/>
 
-**Screenshots of the project**
+#**Screenshots of the project**
 <br/>
 ![Screenshot_15-10-2024_12103_localhost](https://github.com/user-attachments/assets/7013c180-3786-4005-8358-6ba7b9ab60e4)
-<br/>
+<br/><br/> 
+##**Other Screenshots**
 ![Untitled design](https://github.com/user-attachments/assets/c570f152-031f-428c-9e94-9f781c4bc56c)
+__Image Description : Top-left -> Cart, Bottom-left -> About Page, Top-Right and Bottom-Right -> Admin Panel(All Pizzas & Edit Pizza)__
 
 
 

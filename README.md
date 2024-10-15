@@ -2,7 +2,7 @@
 The Pizzeria project is a dynamic web application designed to offer a seamless and engaging pizza-ordering experience. Built with React and Redux, it allows users to customize their pizzas by choosing different sizes, crust types, and toppings. Users can easily add items to the cart, modify quantities, and select variants, ensuring a flexible ordering system. The project also features user authentication, secure checkout with Stripe, and real-time order updates, providing a smooth and secure interface for pizza lovers.
 
 **Frontend:** React, Redux, HTML5<br/>
-**Backend:** Express.js, Node.js
+**Backend:** Express.js, Node.js<br/>
 **Database:** MongoDB
 
 # **Installation:** 
